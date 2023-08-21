@@ -4,11 +4,11 @@ Python in Excel is a new feature that allows you to natively combine Python and 
 
 ![image](https://github.com/microsoft/python-in-excel/assets/3476087/d942578b-6af1-4ae9-9ec9-80ac4291755e)
 
-Python in Excel leverages Anaconda Distribution for Python running in Azure, which includes the most popular Python libraries (e.g. pandas, Matplotlib, scikit-learn, etc.), and is securely built, tested, and supported by Anaconda. Python code used by Excel runs on the Microsoft Cloud with enterprise-level security as a compliant Microsoft 365 connected experience. The Python code runs in its own hypervisor isolated container using Azure Container Instances and secure, source-built packages from Anaconda through a secure supply chain.
+Python in Excel leverages Anaconda Distribution for Python running in Azure, which includes the most popular Python libraries (e.g. pandas, Matplotlib, scikit-learn, etc.), and is securely built, tested, and supported by Anaconda. Python code used by Excel runs on the Microsoft Cloud with enterprise-level security as a compliant Microsoft 365 connected experience. The Python code runs in its own hypervisor isolated container using Azure Container Instances and secure, source-built packages from Anaconda through a secure software supply chain.
 
 ## Get Started with Python in Excel
 
-Python in Excel is currently available to users running Beta Channel on Windows. This feature will roll out to Excel for Windows first, starting with build 16818, and then to the other platforms at a later date. Don’t have it yet? 
+Python in Excel is currently available to users running the Office Beta Channel on Windows with access to a [Microsoft 365 subscription](https://www.microsoft365.com/). This feature will roll out to Excel for Windows first, starting with build 16.0.16818.2000, and then to the other platforms at a later date. Don’t have it yet? 
 
 It’s probably us, not you. Features are released over time to ensure things are working smoothly. We highlight features that you may not have because they’re slowly releasing to larger numbers of Insiders. Sometimes we remove elements for further improvement based on your feedback. Though this is rare, we also reserve the option to pull a feature entirely out of the product even if you, as an Insider, have had the opportunity to try it.
 
