@@ -1,14 +1,35 @@
-# Project
+# Python in Excel
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+Python in Excel is a new feature that allows you to natively combine Python and Excel analytics within the same workbook. With Python in Excel, you can type Python code directly into a cell, the Python calculations run in the Microsoft Cloud, and your results are returned to the worksheet, including plots and visualizations.
 
-As the maintainer of this project, please make a few updates:
+![image](https://github.com/microsoft/python-in-excel/assets/3476087/d942578b-6af1-4ae9-9ec9-80ac4291755e)
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+Python in Excel leverages Anaconda Distribution for Python running in Azure, which includes the most popular Python libraries (e.g. pandas, Matplotlib, scikit-learn, etc.), and is securely built, tested, and supported by Anaconda. Python code used by Excel runs on the Microsoft Cloud with enterprise-level security as a compliant Microsoft 365 connected experience. The Python code runs in its own hypervisor isolated container using Azure Container Instances and secure, source-built packages from Anaconda through a secure supply chain.
+
+## Get Started with Python in Excel
+
+Python in Excel is currently available to users running Beta Channel on Windows. This feature will roll out to Excel for Windows first, starting with build 16818, and then to the other platforms at a later date. Don’t have it yet? 
+
+It’s probably us, not you. Features are released over time to ensure things are working smoothly. We highlight features that you may not have because they’re slowly releasing to larger numbers of Insiders. Sometimes we remove elements for further improvement based on your feedback. Though this is rare, we also reserve the option to pull a feature entirely out of the product even if you, as an Insider, have had the opportunity to try it.
+
+While Python in Excel is in Preview you will be able to use this feature as part of your subscription. After the Preview, you will need to purchase an additional license to use it.
+
+[Join the Microsoft 365 Insider Program to get setup for Python in Excel access.](https://insider.microsoft365.com/en-us/join/windows) 
+
+[Sign up to be notified about future availability for Python in Excel.](https://developer.microsoft.com/en-us/microsoft-365/profile?source=python)
+
+## How to provide feedback
+
+Please log any issues or provide feedback by opening a new Issue on this repository.
+
+## How to learn more
+
+You can learn more about how to use Python in Excel by visiting the following resources:
+- [Python in Excel blog post](https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/2748792)
+- [Getting started with Python in Excel](https://support.microsoft.com/en-us/office/getting-started-with-python-in-excel-ee2c5a3f-6f1a-4e5f-9a84-6a7b9f1c8f8f)
+- [Learn more about the Anaconda Distribution for Python used by Python in Excel](https://www.anaoconda.com/excel)
+- [Learn more about our Data Security for Python in Excel](https://support.microsoft.com/office/data-security-and-python-in-excel-33cc88a4-4a87-485e-9ff9-f35958278327)
+
 
 ## Contributing
 
