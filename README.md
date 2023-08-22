@@ -2,7 +2,8 @@
 
 Python in Excel is a new feature that allows you to natively combine Python and Excel analytics within the same workbook. With Python in Excel, you can type Python code directly into a cell, the Python calculations run in the Microsoft Cloud, and your results are returned to the worksheet, including plots and visualizations.
 
-![image](https://github.com/microsoft/python-in-excel/assets/3476087/d942578b-6af1-4ae9-9ec9-80ac4291755e)
+![image](https://github.com/microsoft/python-in-excel/assets/3476087/24dce9a3-a220-4c18-b5e1-f9fd4223b1f6)
+
 
 Python in Excel leverages Anaconda Distribution for Python running in Azure, which includes the most popular Python libraries (e.g. pandas, Matplotlib, scikit-learn, etc.), and is securely built, tested, and supported by Anaconda. Python code used by Excel runs on the Microsoft Cloud with enterprise-level security as a compliant Microsoft 365 connected experience. The Python code runs in its own hypervisor isolated container using Azure Container Instances and secure, source-built packages from Anaconda through a secure software supply chain.
 
