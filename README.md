@@ -9,9 +9,9 @@ Python in Excel leverages Anaconda Distribution for Python running in Azure, whi
 
 ## Get Started with Python in Excel
 
-Python in Excel is currently available to users running the Office Beta Channel on Windows with access to a [Microsoft 365 subscription](https://www.microsoft365.com/). This feature will roll out to Excel for Windows first, starting with build 16.0.16818.2000, and then to the other platforms at a later date. Don’t have it yet? 
+Python in Excel is currently available to users running the Office Beta Channel on Windows with access to a [Microsoft 365 subscription](https://www.microsoft365.com/). This feature will roll out to Excel for Windows first, starting with build 16.0.16818.2000, and then to the other platforms at a later date. 
 
-It’s probably us, not you. Features are released over time to ensure things are working smoothly. We highlight features that you may not have because they’re slowly releasing to larger numbers of Insiders. Sometimes we remove elements for further improvement based on your feedback. Though this is rare, we also reserve the option to pull a feature entirely out of the product even if you, as an Insider, have had the opportunity to try it.
+Don’t have it yet? It’s probably us, not you. Features are released over time to ensure things are working smoothly. We highlight features that you may not have because they’re slowly releasing to larger numbers of Insiders. Sometimes we remove elements for further improvement based on your feedback. Though this is rare, we also reserve the option to pull a feature entirely out of the product even if you, as an Insider, have had the opportunity to try it.
 
 While Python in Excel is in Preview you will be able to use this feature as part of your subscription. After the Preview, you will need to purchase an additional license to use it.
 
