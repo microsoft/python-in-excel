@@ -28,7 +28,7 @@ Please log any issues or provide feedback by opening a new Issue on this reposit
 You can learn more about how to use Python in Excel by visiting the following resources:
 - [Python in Excel blog post](https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/2748792)
 - [Getting started with Python in Excel](https://support.microsoft.com/en-us/office/getting-started-with-python-in-excel-ee2c5a3f-6f1a-4e5f-9a84-6a7b9f1c8f8f)
-- [Learn more about the Anaconda Distribution for Python used by Python in Excel](https://www.anaoconda.com/excel)
+- [Learn more about the Anaconda Distribution for Python used by Python in Excel](https://www.anaconda.com/excel)
 - [Learn more about our Data Security for Python in Excel](https://support.microsoft.com/office/data-security-and-python-in-excel-33cc88a4-4a87-485e-9ff9-f35958278327)
 
 
